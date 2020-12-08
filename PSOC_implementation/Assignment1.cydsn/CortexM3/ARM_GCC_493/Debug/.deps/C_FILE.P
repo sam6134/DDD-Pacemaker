@@ -1,0 +1,4 @@
+C:/Users/anju\ singh/Desktop/psoc_intro/psoc_intro/Assignment1.cydsn/CortexM3/ARM_GCC_493/Debug/scchart.o : C:/Users/anju\ singh/Desktop/psoc_intro/psoc_intro/Assignment1.cydsn/scchart.c 
+
+C:/Users/anju\ singh/Desktop/psoc_intro/psoc_intro/Assignment1.cydsn/scchart.c : 
+

@@ -1,0 +1,11 @@
+C:\Users\anju singh\Desktop\psoc_intro\psoc_intro\lab1.cydsn\lab1.cyprj|fd96f2aa-4785-48e4-85ac-397107ba71cb
+C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|0a3e7734-f567-4843-a262-7a0ef8b2d989
+C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|e03c8e53-5550-48e3-a715-e83ecc947c29
+C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|8f707467-f1fe-45ed-a494-37a2332d8851
+C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|4731917b-8b1a-47fb-84c7-4649a573294a
+C:\Users\anju singh\Desktop\psoc_intro\psoc_intro\lab3.cydsn\lab3.cyprj|e4adfa77-9d57-451d-b67b-3c55b6415f75
+C:\Users\anju singh\Desktop\psoc_intro\psoc_intro\lab2.cydsn\lab2.cyprj|09c91fe3-0af4-4588-b8e4-0a9c72c41fab
+C:\Users\anju singh\Desktop\psoc_intro\psoc_intro\lab4.cydsn\lab4.cyprj|12535ac9-1053-401d-9ec5-bc56c3433fb8
+C:\Users\anju singh\Desktop\psoc_intro\psoc_intro\lab5.cydsn\lab5.cyprj|b0b622d1-cce3-4d04-a63b-e10cc9e505e8
+C:\Users\anju singh\Desktop\psoc_intro\psoc_intro\Assignment1.cydsn\Assignment1.cyprj|e9451f7c-f161-4b3a-8ac1-f660d55bcb29
+C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\dev\psoc3\AnalogDevice\PSoC35AnalogDevice.cylib\PSoC35AnalogDevice.cyprj|22de2711-af25-4223-ac05-3fc027d330af

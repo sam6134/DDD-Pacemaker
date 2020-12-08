@@ -1,0 +1,45 @@
+# Assignment1
+# 2020-11-01 06:55:59Z
+
+# IO_0@[IOP=(1)][IoId=(0)] is reserved: SWDDebugEnabled
+dont_use_io iocell 1 0
+# IO_1@[IOP=(1)][IoId=(1)] is reserved: SWDDebugEnabled
+dont_use_io iocell 1 1
+# IO_3@[IOP=(1)][IoId=(3)] is reserved: SWDDebugEnabled
+dont_use_io iocell 1 3
+set_location "ClockBlock" clockblockcell -1 -1 0
+set_io "\USBUART:Dm(0)\" iocell 15 7
+set_location "\USBUART:Dp\" logicalport -1 -1 15
+set_io "\USBUART:Dp(0)\" iocell 15 6
+set_location "\PVARP_Timer:TimerUDB:status_tc\" 1 5 0 1
+set_location "\VRP_Timer:TimerUDB:status_tc\" 1 3 0 1
+set_location "\USBUART:dp_int\" interrupt -1 -1 12
+set_location "\USBUART:USB\" usbcell -1 -1 0
+set_location "\USBUART:ep_3\" interrupt -1 -1 2
+set_location "\USBUART:ep_2\" interrupt -1 -1 1
+set_location "\USBUART:ep_1\" interrupt -1 -1 0
+set_location "\USBUART:ep_0\" interrupt -1 -1 24
+set_location "\USBUART:bus_reset\" interrupt -1 -1 23
+set_location "\USBUART:arb_int\" interrupt -1 -1 22
+set_location "\USBUART:sof_int\" interrupt -1 -1 21
+set_location "\AEI_Timer:TimerHW\" timercell -1 -1 0
+set_location "__ONE__" 0 4 0 0
+set_location "\LRI_Timer:TimerHW\" timercell -1 -1 2
+set_location "\AVI_Timer:TimerHW\" timercell -1 -1 1
+set_location "\URI_Timer:TimerHW\" timercell -1 -1 3
+set_location "\PVARP_Timer:TimerUDB:sCTRLReg:SyncCtl:ctrlreg\" 1 5 6
+set_location "\PVARP_Timer:TimerUDB:rstSts:stsreg\" 1 5 4
+set_location "\PVARP_Timer:TimerUDB:sT16:timerdp:u0\" 0 5 2
+set_location "\PVARP_Timer:TimerUDB:sT16:timerdp:u1\" 1 5 2
+set_location "\VRP_Timer:TimerUDB:sCTRLReg:SyncCtl:ctrlreg\" 1 3 6
+set_location "\VRP_Timer:TimerUDB:rstSts:stsreg\" 1 3 4
+set_location "\VRP_Timer:TimerUDB:sT16:timerdp:u0\" 0 3 2
+set_location "\VRP_Timer:TimerUDB:sT16:timerdp:u1\" 1 3 2
+set_location "isr_VRP" interrupt -1 -1 8
+set_location "isr_AVI" interrupt -1 -1 4
+set_location "isr_PVARP" interrupt -1 -1 6
+set_location "isr_AEI" interrupt -1 -1 3
+set_location "isr_URI" interrupt -1 -1 7
+set_location "isr_LRI" interrupt -1 -1 5
+set_location "Net_306" 1 5 0 0
+set_location "Net_289" 1 3 0 0
